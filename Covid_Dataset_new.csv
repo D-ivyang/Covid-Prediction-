@@ -1,0 +1,2138 @@
+﻿cough,fever,sore_throat,shortness_of_breath,head_ache,age_60_and_above,gender,test_indication,corona_result
+1,1,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,male,Abroad,negative
+0,0,0,0,1,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Abroad,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,1,No,male,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+1,1,0,1,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Other,negative
+1,1,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,1,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Abroad,negative
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,1,Yes,female,Other,positive
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,1,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,1,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,negative
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,1,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,1,0,0,1,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,female,Other,positive
+1,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,1,Yes,male,Abroad,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Abroad,negative
+1,1,1,1,1,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,1,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,1,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,1,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,1,No,male,Contact with confirmed,positive
+1,1,0,0,1,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,None,Abroad,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,male,Other,positive
+1,1,0,1,1,Yes,male,Other,positive
+1,1,0,0,0,No,female,Other,positive
+1,0,1,0,1,No,female,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,1,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,female,Abroad,negative
+1,1,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,1,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Contact with confirmed,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Contact with confirmed,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,No,male,Other,negative
+1,1,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,1,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Abroad,negative
+1,1,0,1,0,No,male,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,1,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,0,0,1,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,negative
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,1,0,No,female,Other,positive
+1,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,1,0,No,female,Contact with confirmed,positive
+1,0,1,0,1,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,1,0,Yes,male,Other,positive
+1,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,No,male,Contact with confirmed,negative
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,1,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,1,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,1,1,1,No,female,Abroad,positive
+0,1,0,0,0,No,male,Other,negative
+0,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,female,Abroad,positive
+1,0,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,female,Other,negative
+0,1,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,1,No,female,Other,positive
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,1,1,No,female,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,1,0,Yes,male,Abroad,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,1,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Abroad,negative
+1,1,0,1,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,1,1,1,No,male,Other,positive
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,positive
+0,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,None,Other,negative
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Other,positive
+1,0,0,0,1,No,female,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,1,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,1,1,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,No,female,Abroad,positive
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Abroad,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,1,0,1,No,male,Abroad,positive
+1,0,0,0,1,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,1,1,Yes,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Abroad,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,1,No,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+1,1,1,1,1,No,female,Contact with confirmed,positive
+1,1,1,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Contact with confirmed,negative
+1,0,1,1,1,Yes,female,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,None,Other,negative
+1,1,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Other,negative
+0,1,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,1,0,1,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,1,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Abroad,negative
+0,1,1,1,1,No,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,None,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Other,positive
+1,1,0,1,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,1,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,0,1,1,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Abroad,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,1,Yes,male,Abroad,positive
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Abroad,positive
+0,1,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Other,negative
+1,0,0,1,1,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,1,No,female,Contact with confirmed,positive
+0,1,0,0,1,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,1,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,1,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,1,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,female,Other,negative
+0,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,1,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,negative
+1,1,0,1,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Other,positive
+1,0,1,1,0,No,female,Other,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,1,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,1,0,1,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Other,negative
+0,0,1,0,0,No,female,Abroad,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,Yes,male,Abroad,negative
+1,0,1,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,positive
+0,1,0,0,0,Yes,female,Other,positive
+0,1,0,1,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,1,1,1,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,positive
+1,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,1,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,1,No,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Other,positive
+0,1,0,1,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,1,Yes,male,Other,positive
+1,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,female,Other,negative
+1,1,0,1,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,1,0,1,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,1,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,male,Abroad,negative
+1,1,0,1,0,Yes,male,Abroad,positive
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Other,positive
+0,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Abroad,negative
+1,0,0,0,0,No,female,Other,negative
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,1,0,1,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Abroad,positive
+1,1,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,No,female,Abroad,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,1,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,1,1,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Abroad,positive
+0,1,0,0,0,Yes,male,Abroad,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,negative
+1,0,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,female,Abroad,negative
+1,1,0,1,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Other,positive
+0,1,0,0,1,Yes,male,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,1,0,1,No,female,Contact with confirmed,positive
+0,1,1,0,0,No,female,Other,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,1,0,Yes,male,Other,positive
+0,0,0,0,1,Yes,male,Contact with confirmed,positive
+1,0,1,0,1,Yes,female,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,1,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,1,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,1,No,female,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,1,0,0,0,No,male,Other,positive
+1,1,1,0,0,No,male,Contact with confirmed,negative
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,1,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,1,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Other,negative
+1,0,1,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,None,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,1,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,1,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,1,1,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,1,1,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Other,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Other,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,1,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,male,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,1,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Abroad,positive
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,No,female,Abroad,positive
+0,1,1,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,female,Abroad,positive
+1,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,1,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Abroad,negative
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,1,1,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Abroad,positive
+0,0,0,0,1,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,negative
+1,0,0,1,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,male,Abroad,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Abroad,positive
+1,0,0,0,1,No,female,Contact with confirmed,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Abroad,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,1,0,1,No,male,Contact with confirmed,positive
+1,1,1,0,1,Yes,female,Other,positive
+1,1,0,0,0,No,male,Other,positive
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,No,male,Abroad,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,1,1,0,No,female,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,negative
+0,0,0,0,0,No,female,Contact with confirmed,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Abroad,positive
+1,1,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,1,1,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,1,0,0,1,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,1,0,0,No,female,Other,positive
+0,0,0,0,1,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Abroad,negative
+1,1,1,0,1,Yes,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,1,No,female,Abroad,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,1,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,negative
+1,1,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,1,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,male,Other,positive
+1,1,0,1,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,0,1,0,Yes,female,Other,positive
+0,0,0,0,0,No,female,Other,negative
+0,1,0,0,0,No,male,Abroad,negative
+1,0,1,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Contact with confirmed,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,1,No,male,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,1,0,0,No,male,Other,positive
+0,0,0,0,1,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,1,1,No,female,Contact with confirmed,positive
+1,0,1,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,1,Yes,male,Other,positive
+0,0,1,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,None,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+0,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,1,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,0,1,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,Yes,male,Abroad,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,negative
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,Yes,female,Abroad,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,1,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Abroad,negative
+1,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,positive
+1,1,1,1,1,Yes,male,Other,positive
+0,0,0,0,1,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,1,0,1,No,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+1,1,1,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,female,Other,positive
+0,0,0,0,1,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,1,Yes,male,Other,positive
+0,1,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,1,1,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Abroad,negative
+1,0,0,1,1,Yes,female,Other,positive
+1,1,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Abroad,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,1,1,No,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,None,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,male,Other,positive
+0,1,0,0,1,Yes,male,Other,positive
+0,1,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,1,0,0,Yes,male,Contact with confirmed,positive
+0,0,1,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Abroad,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,negative
+0,1,0,0,1,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Abroad,negative
+1,1,1,1,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,1,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,1,1,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Abroad,positive
+0,1,0,1,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,1,No,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,female,Other,positive
+1,1,0,0,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,1,1,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Abroad,positive
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,1,Yes,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,1,Yes,male,Contact with confirmed,positive
+0,1,0,1,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,1,1,1,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,1,0,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,positive
+1,1,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,None,Contact with confirmed,negative
+1,1,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,male,Other,positive
+1,0,1,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,1,0,1,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,negative
+1,0,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,1,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,1,1,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Contact with confirmed,negative
+1,0,0,0,0,No,male,Contact with confirmed,negative
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Abroad,positive
+1,0,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Contact with confirmed,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,1,0,1,Yes,female,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,1,1,1,1,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Abroad,positive
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,1,1,1,Yes,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,0,1,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Abroad,positive
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,1,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Abroad,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,1,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,No,female,Other,negative
+1,1,0,0,0,Yes,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,None,Other,negative
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,1,No,male,Abroad,positive
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,0,1,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,Yes,female,Other,positive
+0,1,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,No,male,Contact with confirmed,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,1,0,1,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,male,Abroad,positive
+1,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,1,0,1,No,female,Contact with confirmed,positive
+1,1,1,1,1,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,1,0,0,No,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,1,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,1,1,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,1,1,0,1,No,female,Abroad,positive
+1,0,0,0,0,No,female,Abroad,negative
+1,0,1,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,None,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,Yes,male,Abroad,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,Yes,female,Other,positive
+1,1,0,1,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Abroad,negative
+1,1,0,0,0,No,male,Abroad,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,1,1,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,female,Abroad,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Abroad,negative
+1,0,1,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,1,1,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Abroad,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,female,Other,positive
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+1,1,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Abroad,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,male,Other,positive
+0,1,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+1,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,1,0,0,0,No,male,Other,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,negative
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,1,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Other,positive
+0,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,Yes,male,Contact with confirmed,positive
+0,1,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,negative
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,1,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,1,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Abroad,negative
+1,1,0,0,0,No,None,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,1,0,No,male,Other,positive
+0,1,0,1,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+0,1,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,None,Other,negative
+1,1,0,0,0,No,female,Abroad,negative
+1,1,0,1,0,Yes,female,Other,positive
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,positive
+1,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,positive
+1,1,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,None,Abroad,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,positive
+0,1,1,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,1,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+1,1,0,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,1,0,Yes,female,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,0,0,0,0,No,male,Contact with confirmed,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,1,1,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,0,0,Yes,male,Other,negative
+1,1,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Abroad,positive
+1,0,0,0,1,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,1,No,male,Contact with confirmed,positive
+0,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,No,male,Other,negative
+1,1,0,1,0,Yes,male,Abroad,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,negative
+0,1,1,0,0,Yes,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,No,female,Other,positive
+0,0,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,No,None,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,No,female,Other,positive
+1,1,0,1,0,Yes,female,Other,positive
+1,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,female,Other,negative
+1,1,0,0,1,No,female,Abroad,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,0,No,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,1,1,0,0,No,female,Other,positive
+0,0,0,0,0,Yes,female,Other,positive
+0,0,0,0,1,Yes,female,Contact with confirmed,positive
+1,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,female,Abroad,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,female,Abroad,negative
+0,1,0,0,0,Yes,male,Other,positive
+1,1,0,0,1,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,0,No,male,Other,positive
+1,0,0,1,0,Yes,male,Other,positive
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,female,Abroad,negative
+1,1,0,0,0,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,No,male,Other,negative
+1,0,0,0,0,No,male,Other,negative
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,1,0,0,0,Yes,female,Other,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,0,0,0,0,Yes,male,Abroad,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,No,female,Contact with confirmed,positive
+1,0,0,0,0,No,male,Abroad,negative
+0,0,0,0,0,Yes,male,Other,negative
+1,0,0,0,1,Yes,male,Other,positive
+0,1,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,No,male,Abroad,positive
+0,1,0,0,1,Yes,female,Other,positive
+0,0,0,0,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Contact with confirmed,positive
+0,1,0,0,0,Yes,None,Contact with confirmed,positive
+1,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,Yes,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,None,Other,negative
+1,0,0,0,0,No,male,Contact with confirmed,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+0,1,0,0,1,Yes,male,Other,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,female,Other,negative
+0,0,0,0,0,Yes,male,Other,negative
+0,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,0,No,male,Contact with confirmed,positive
+1,1,0,1,0,No,male,Other,positive
+0,0,0,0,0,Yes,female,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
+1,1,0,0,0,Yes,male,Other,positive
+0,0,0,0,1,No,male,Contact with confirmed,positive
+1,1,0,0,0,No,male,Contact with confirmed,positive
+1,0,0,0,1,No,female,Contact with confirmed,positive
+0,0,0,0,0,Yes,male,Other,negative
+0,0,0,0,0,No,male,Other,negative
+0,0,0,0,0,Yes,female,Other,negative
